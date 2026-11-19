@@ -1,0 +1,4 @@
+.build/
+HarpyDock.app/
+dist/
+.DS_Store
